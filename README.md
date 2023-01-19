@@ -42,7 +42,7 @@
       </section>
     </main>
     <footer>
-      <p>Copyright © 2023 Food Website</p>
+      <p>Copyright © 2023 Prabhu Website</p>
     </footer>
   </body>
 </html>
